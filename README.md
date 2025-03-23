@@ -15,7 +15,7 @@ I am actively working on achieving my goals, and each day brings me closer to my
 ## 🌱 Currently Learning
 
 - More about **State Management** in Flutter
-- Enhancing my **API** skills with **Laravel** and integrating them with front-end apps
+- Enhancing my **API** skills with **Laravel** 
 
 ## 💬 How to Reach Me
 
@@ -52,13 +52,8 @@ I’m currently focused on building amazing mobile apps using **Flutter** and de
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
-
-
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzaboumanjel/hamzaboumanjel/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzaboumanjel/hamzaboumanjel/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hamzaboumanjel/hamzaboumanjel/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
